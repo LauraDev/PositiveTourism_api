@@ -42,7 +42,7 @@ cd ..
 
 +++++
 
-/api/.env -> DATABASE_URL=sqlite:///%kernel.project_dir%/var/data.db )
+<span style="color:blue;"> /api/.env -> DATABASE_URL=sqlite:///%kernel.project_dir%/var/data.db ) </span>
 
 To sync the db
 

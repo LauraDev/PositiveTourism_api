@@ -39,7 +39,9 @@ cd ..
 ## MySQL Database
 
 ( To switch from postgres to MySQL I used that link: https://github.com/Selion05/docs/blob/2.2/core/mysql.md
+
 +++++
+
 /api/.env -> DATABASE_URL=sqlite:///%kernel.project_dir%/var/data.db )
 
 To sync the db
